@@ -15,7 +15,7 @@ h1{
 }
 
 #picture{
-  display: block;
+  display: inline-block;
   margin: 0 auto;
   border: 0px;
 }
