@@ -15,11 +15,12 @@ h1{
   margin: 16px;
 }
 
-a{
+img{
   margin-left: auto;
   margin-right: auto;
   margin: 16px;
   border-style: ridge;
+  display: block;
 }
 
 h3{
