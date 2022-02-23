@@ -14,7 +14,7 @@ h1{
   margin: 16px;
 }
 
-div{
+.boxes{
   border-style: ridge;
   border-radius: 20px;
   padding-left: 16px;
