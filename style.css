@@ -14,7 +14,7 @@ h1{
   text-align: center;
 }
 
-img{
+a{
  border-style: ridge;
  margin-left: auto;
  margin-right: auto;
@@ -29,13 +29,14 @@ h3{
 }
 
 h4,h5{
-  padding: 16px;
+  padding-left: 16px;
 }
 
 div{
   border-style: ridge;
   border-radius: 20px;
-  padding: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
   text-align: left;
   background-color: beige;
   margin: 15px;
