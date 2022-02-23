@@ -10,7 +10,7 @@ h1{
   border-style: ridge;
   border-radius: 10px;
   background-color: beige;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
 }
 
@@ -23,7 +23,7 @@ a{
 h3{
   background-color: beige;
   border-radius: 6px;
-  padding: 2px;
+  padding: 20px;
   border-style: ridge;
   text-align: center;
 }
@@ -31,7 +31,7 @@ h3{
 div{
   border-style: ridge;
   border-radius: 20px;
-  padding: 10px;
+  padding: 20px;
   text-align: left;
   background-color: beige;
   margin: 15px;
