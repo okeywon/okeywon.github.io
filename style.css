@@ -25,12 +25,13 @@ h1{
 }
 
 #picture{
-  margin: 0 auto;
+  
 }
 
 #picture img{
   width: 100px;
   height: 100px;
+  margin: 0 auto;
 }
 
 h3{
