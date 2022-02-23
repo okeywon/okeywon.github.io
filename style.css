@@ -21,12 +21,6 @@ h1{
   border-style: ridge;
 }
 
-img{
-  display: block;
-  width: auto;
-  height: 200px;
-}
-
 h3{
   background-color: beige;
   border-radius: 6px;
