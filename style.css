@@ -16,10 +16,10 @@ h1{
 }
 
 a{
-  border-style: ridge;
   margin-left: auto;
   margin-right: auto;
   margin: 16px;
+  border-style: ridge;
 }
 
 h3{
