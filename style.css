@@ -20,6 +20,8 @@ img{
   margin: 16px;
   border-style: ridge;
   display: block;
+  width: auto;
+  height: 200px;
 }
 
 h3{
