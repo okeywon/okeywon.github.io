@@ -16,8 +16,8 @@ h1{
 
 img{
  border-style: ridge;
- position: relative;
- left: 156px;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 h3{
