@@ -7,7 +7,7 @@ body{
 h1{
   font-size: 18px;
   border-style: ridge;
-  border-radius: 10px;
+  border-radius: 20px;
   background-color: beige;
   padding: 16px;
   text-align: center;
@@ -24,7 +24,7 @@ img{
 
 h3{
   background-color: beige;
-  border-radius: 10px;
+  border-radius: 18px;
   padding: 16px;
   border-style: ridge;
   text-align: center;
