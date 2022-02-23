@@ -14,16 +14,6 @@ h1{
   margin: 16px;
 }
 
-#picture{
-  margin: 0 auto;
-  border-style: ridge;
-}
-
-#picture img{
-  width: 100px;
-  height: 100px;
-}
-
 .boxes{
   border-style: ridge;
   border-radius: 20px;
@@ -32,6 +22,15 @@ h1{
   text-align: left;
   background-color: beige;
   margin: 16px;
+}
+
+#picture{
+  margin: 0 auto;
+}
+
+#picture img{
+  width: 100px;
+  height: 100px;
 }
 
 h3{
