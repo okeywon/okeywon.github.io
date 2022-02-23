@@ -24,13 +24,14 @@ h1{
   margin: 16px;
 }
 
+#picture{
+  margin: 0 auto;
+  border: 0px;
+}
+
 #picture img{
   width: 100px;
   height: 100px;
-}
-
-#picture{
-  margin: 0 auto;
 }
 
 h3{
