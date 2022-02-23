@@ -19,6 +19,9 @@ h1{
   margin-right: auto;
   margin: 16px;
   border-style: ridge;
+}
+
+img{
   display: block;
   width: auto;
   height: 200px;
