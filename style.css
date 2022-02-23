@@ -24,14 +24,14 @@ div{
   margin: 16px;
 }
 
-.picture{
+#picture{
   display: inline-flex;
   justify-content: center;
   margin: 0 auto;
   border-style: ridge;
 }
 
-.picture img{
+#picture img{
   width: 100px;
   height: 100px;
 }
