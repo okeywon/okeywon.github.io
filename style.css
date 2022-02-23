@@ -25,7 +25,7 @@ h1{
 }
 
 #picture{
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   margin: 0 auto;
   border-style: ridge;
