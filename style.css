@@ -2,7 +2,7 @@ body{
   background-image: url("https://www.herzing.edu/sites/default/files/styles/fp_960_480/public/2020-09/how-to-become-software-engineer.jpg.webp?itok=uuamJN8l");
   font-size: 12px;
   font-family: arial;
-  margin: 20px;
+  margin: 16px;
 }
 
 h1{
@@ -10,7 +10,7 @@ h1{
   border-style: ridge;
   border-radius: 10px;
   background-color: beige;
-  padding: 20px;
+  padding: 16px;
   text-align: center;
 }
 
@@ -23,15 +23,19 @@ a{
 h3{
   background-color: beige;
   border-radius: 6px;
-  padding: 20px;
+  padding: 16px;
   border-style: ridge;
   text-align: center;
+}
+
+h4,h5{
+  padding: 16px;
 }
 
 div{
   border-style: ridge;
   border-radius: 20px;
-  padding: 20px;
+  padding: 16px;
   text-align: left;
   background-color: beige;
   margin: 15px;
